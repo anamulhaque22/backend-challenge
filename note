@@ -1,0 +1,1 @@
+To create, update, and delete a course, an admin must first log in. The login API will provide a token in the response. To perform the aforementioned actions, the token must be included in the request header.
